@@ -1,5 +1,3 @@
-package jenkin_github_test_package;
-
 public class Jenkin_github_test_class {
 
 	public static void main(String[] args) {
