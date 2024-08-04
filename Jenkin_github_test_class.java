@@ -5,5 +5,7 @@ public class Jenkin_github_test_class {
 		System.out.println("*************************************");
 		System.out.println("Sample java class for github & jenkin");
 		System.out.println("*************************************");
+		System.out.println("first change");
+		System.out.println("*************************************");
 	}
 }
